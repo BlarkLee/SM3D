@@ -9,6 +9,6 @@ Mapping and 3D detection are two major issues in vision-based robotics, and self
 Overview of our SM3D. Mapping Module: Jointly learning and estimating depth and pose. 3D Detection Module: Jointly learning and estimating depth and 3D detection. Input: Monocular snippet. Output: Mapping/3D Detection & Location.
 ## Demo
 Here is a demo video of our SM3D testing on KITTI dataset. The top video shows the original input monocular RGB frames, with 3D detection; The middle video shows the depth estimation; The bottom one shows the ego motion mapping over time. 
-![](https://raw.githubusercontent.com/BlarkLee/MonoPLFlowNet/main/)
+![](https://raw.githubusercontent.com/BlarkLee/SM3D/main/sm3d_demo.gif)
 
 ## Code will be released soon!!!
